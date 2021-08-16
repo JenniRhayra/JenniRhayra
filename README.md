@@ -7,7 +7,7 @@
 <div>
   <a href="https://github.com/JenniRhayra">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JenniRhayra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JenniRhayra&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="90em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JenniRhayra&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div> 
