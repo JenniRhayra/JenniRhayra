@@ -4,6 +4,7 @@
 - 📫 Você pode falar comigo pelo jenniferrhayra@gmail.com
 - 😄 Pronouns: ela/dela (she/her)
 
+<!--
 <div>
   <a href="https://github.com/JenniRhayra">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JenniRhayra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -15,3 +16,4 @@
   <a href="https://www.linkedin.com/in/jennifer-rhayra-campos-73016311b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
+-->
