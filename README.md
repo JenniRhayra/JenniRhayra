@@ -1,8 +1,8 @@
 ### Bem-vindx! Eu sou a Jennifer Rhayra 🌵
 - ⚡ Em processo de transição de carreira
-- 🌱 Eu estou estudando Análise e Desenvolvimento de Sistemas e quero ser dev Front-End
+- 🌱 Estudo Análise e Desenvolvimento de Sistemas e quero seguir como Front-End
 - 📫 Você pode falar comigo pelo jenniferrhayra@gmail.com
-- 😄 Pronouns: ela/dela (she/her)
+- 😄 Pronomes: ela/dela (she/her)
 
 <!--
 <div>
