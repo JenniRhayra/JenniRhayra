@@ -1,9 +1,9 @@
-### Bem-vindx! Eu sou a Jennifer Rhayra 🌵
+## Bem-vindx! Eu sou a Jennifer Rhayra 🌵
 - ⚡ Em processo de transição de carreira
 - 🌱 Estudo Análise e Desenvolvimento de Sistemas na [FATEC/Sorocaba](http://www.fatecsorocaba.edu.br/)
 - 😄 Pronomes: ela/dela (she/her)
 
-## 🌐 Redes Sociais
+### 🌐 Redes Sociais
 
 <a href="https://www.linkedin.com/in/jennifer-rhayra-campos-73016311b/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a> <a href="mailto:jenniferrhayra@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
