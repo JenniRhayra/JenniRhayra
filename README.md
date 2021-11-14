@@ -1,5 +1,5 @@
 ## Bem-vindx! Eu sou a Jennifer Rhayra 🌵
-- ⚡ Em processo de transição de carreira, mas hoje atuo como Event Management Jr. na [Robert Bosch](https://www.bosch.com.br/)
+- ⚡ Trainee em Transformação e QA na [Inmetrics](https://inmetrics.com.br/)
 - 🌱 Estudo Análise e Desenvolvimento de Sistemas na [FATEC/Sorocaba](http://www.fatecsorocaba.edu.br/)
 - 🌱 Sou formada em Administração pela [UFSCar/Sorocaba](https://www.ufscar.br/)
 - 😄 Pronomes: ela/dela (she/her)
