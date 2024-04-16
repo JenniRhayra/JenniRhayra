@@ -1,5 +1,5 @@
 ## Bem-vindx! Eu sou a Jennifer Rhayra 🌵
-- ⚡ Data Analyst Jr. do [Grupo Boticário](https://www.grupoboticario.com.br/)
+- ⚡ Data Analyst II. do [Grupo Boticário](https://www.grupoboticario.com.br/)
 - 🌱 Estudo Análise e Desenvolvimento de Sistemas na [FATEC/Sorocaba](http://www.fatecsorocaba.edu.br/)
 - 🌱 Sou formada em Administração pela [UFSCar/Sorocaba](https://www.ufscar.br/)
 - 😄 Pronomes: ela/dela (she/her)
